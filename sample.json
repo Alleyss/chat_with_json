@@ -1,0 +1,125 @@
+{
+    "faculties": [
+      {
+        "name": "Dr. Alice Johnson",
+        "department": "Computer Science",
+        "subjects": ["Machine Learning", "Artificial Intelligence"],
+        "cabin_number": "C-101",
+        "email": "alice.johnson@university.edu",
+        "phone": "+1-123-456-7890"
+      },
+      {
+        "name": "Dr. Bob Smith",
+        "department": "Mathematics",
+        "subjects": ["Calculus", "Linear Algebra"],
+        "cabin_number": "M-203",
+        "email": "bob.smith@university.edu",
+        "phone": "+1-987-654-3210"
+      },
+      {
+        "name": "Prof. Carol Williams",
+        "department": "Physics",
+        "subjects": ["Quantum Mechanics", "Electromagnetism"],
+        "cabin_number": "P-305",
+        "email": "carol.williams@university.edu",
+        "phone": "+1-234-567-8901"
+      },
+      {
+        "name": "Dr. Daniel Brown",
+        "department": "Chemistry",
+        "subjects": ["Organic Chemistry", "Analytical Chemistry"],
+        "cabin_number": "CH-102",
+        "email": "daniel.brown@university.edu",
+        "phone": "+1-345-678-9012"
+      },
+      {
+        "name": "Prof. Emily Clark",
+        "department": "Biology",
+        "subjects": ["Genetics", "Microbiology"],
+        "cabin_number": "B-206",
+        "email": "emily.clark@university.edu",
+        "phone": "+1-456-789-0123"
+      },
+      {
+        "name": "Dr. Frank Miller",
+        "department": "Mechanical Engineering",
+        "subjects": ["Thermodynamics", "Fluid Mechanics"],
+        "cabin_number": "ME-401",
+        "email": "frank.miller@university.edu",
+        "phone": "+1-567-890-1234"
+      },
+      {
+        "name": "Prof. Grace Adams",
+        "department": "Electrical Engineering",
+        "subjects": ["Circuit Analysis", "Power Systems"],
+        "cabin_number": "EE-302",
+        "email": "grace.adams@university.edu",
+        "phone": "+1-678-901-2345"
+      },
+      {
+        "name": "Dr. Henry Wilson",
+        "department": "Civil Engineering",
+        "subjects": ["Structural Engineering", "Construction Management"],
+        "cabin_number": "CE-210",
+        "email": "henry.wilson@university.edu",
+        "phone": "+1-789-012-3456"
+      },
+      {
+        "name": "Prof. Irene Davis",
+        "department": "Economics",
+        "subjects": ["Macroeconomics", "Microeconomics"],
+        "cabin_number": "EC-503",
+        "email": "irene.davis@university.edu",
+        "phone": "+1-890-123-4567"
+      },
+      {
+        "name": "Dr. Jack White",
+        "department": "History",
+        "subjects": ["World History", "Modern History"],
+        "cabin_number": "H-305",
+        "email": "jack.white@university.edu",
+        "phone": "+1-901-234-5678"
+      },
+      {
+        "name": "Prof. Karen Lee",
+        "department": "Psychology",
+        "subjects": ["Cognitive Psychology", "Behavioral Psychology"],
+        "cabin_number": "PS-104",
+        "email": "karen.lee@university.edu",
+        "phone": "+1-012-345-6789"
+      },
+      {
+        "name": "Dr. Louis Martin",
+        "department": "Political Science",
+        "subjects": ["International Relations", "Public Policy"],
+        "cabin_number": "POL-201",
+        "email": "louis.martin@university.edu",
+        "phone": "+1-123-567-8901"
+      },
+      {
+        "name": "Prof. Nancy Scott",
+        "department": "Philosophy",
+        "subjects": ["Ethics", "Metaphysics"],
+        "cabin_number": "PH-108",
+        "email": "nancy.scott@university.edu",
+        "phone": "+1-234-678-9012"
+      },
+      {
+        "name": "Dr. Oliver Reed",
+        "department": "Linguistics",
+        "subjects": ["Syntax", "Phonetics"],
+        "cabin_number": "L-307",
+        "email": "oliver.reed@university.edu",
+        "phone": "+1-345-789-0123"
+      },
+      {
+        "name": "Prof. Patricia Moore",
+        "department": "Sociology",
+        "subjects": ["Cultural Studies", "Social Research Methods"],
+        "cabin_number": "SOC-405",
+        "email": "patricia.moore@university.edu",
+        "phone": "+1-456-890-1234"
+      }
+    ]
+  }
+  
